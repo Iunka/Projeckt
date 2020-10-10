@@ -1,0 +1,35 @@
+[33mcommit a066c795b27b00799828c8fab5deb68a0a3f4626[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-2-1[m[33m)[m
+Author: StaSia <kirstasia@gmail.com>
+Date:   Sat Oct 10 22:07:54 2020 +0300
+
+    created file-2-1
+
+[33mcommit f4b1c61cda192126608049baa4e34e0b90f88f75[m[33m ([m[1;31morigin/branch-1[m[33m, [m[1;32mbranch-1[m[33m)[m
+Author: StaSia <kirstasia@gmail.com>
+Date:   Sat Oct 10 22:00:17 2020 +0300
+
+    change file-1
+
+[33mcommit 3f0a903cd42200ad31532a09c412317699566bf5[m
+Author: StaSia <kirstasia@gmail.com>
+Date:   Sat Oct 10 21:55:05 2020 +0300
+
+    created file-1
+
+[33mcommit f1b2ab59a22e2d0258c484bbc2558ac0026da047[m[33m ([m[1;31morigin/new[m[33m, [m[1;32mnew[m[33m)[m
+Author: Iunka <71945898+Iunka@users.noreply.github.com>
+Date:   Thu Oct 8 23:01:19 2020 +0300
+
+    Update test.txt
+
+[33mcommit ab12db83887b2028dfc7a394df9d25513c4be552[m
+Author: StaSia <kirstasia@gmail.com>
+Date:   Thu Oct 8 22:57:53 2020 +0300
+
+    test
+
+[33mcommit 4e7b1320788bfa3f0a6870a7ed7bec8d1756294b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Iunka <71945898+Iunka@users.noreply.github.com>
+Date:   Thu Oct 8 19:07:19 2020 +0300
+
+    Initial commit
